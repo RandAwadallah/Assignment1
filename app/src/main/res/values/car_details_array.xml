@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cars_details_array">
+    <item>{"name":"\"Honda Civic Sedan\"","year":"2016",
+           "color":"Grey","milage":"35000","price":$15000"}</item>
+        <item>{"name":"\"Honda Civic 1.6\"","year":"2017",
+           "color":"Red","milage":"25000","price":$18000"}</item>
+        <item>{"name":"\"Honda Accord Tourind OEM\"","year":"2020",
+            "color":"Beige","milage":"4500","price":$35000"}</item>
+        <item>{"name":"\"Honda Civic MMP\"","year":"2020",
+           "color":"Red","milage":"3500","price":$30000"}</item>
+        <item>{"name":"\"Honda Accord Baton Rouge\"","year":"2020",
+           "color":"Beige","milage":"5000","price":$32000"}</item>
+        <item>{"name":"\"BMW X5 xDrive40i\"","year":"2019",
+           "color":"Blue","milage":"8000","price":$98000"}</item>
+        <item>{"name":"\"BMW X5 Standard\"","year":"2020",
+           "color":"Blue","milage":"4000","price":$120000"}</item>
+        <item>{"name":"\"BMW X6 Standard\"","year":"2020",
+           "color":"White","milage":"65000","price":$140000"}</item>
+        <item>{"name":"\"BMW X5 Standard\"","year":"2017",
+           "color":"White","milage":"10000","price":$8000"}</item>
+        <item>{"name":"\"Mercedes Benz EQC\"","year":"2019",
+           "color":"White","milage":"12000","price":$135000"}</item>
+        <item>{"name":"\"Mercedes Benz Sedan\"","year":"2020",
+           "color":"Silver","milage":"3000","price":$150000"}</item>
+        <item>{"name":"\"Mercedes Benz AMG C63\"","year":"2019",
+           "color":"White","milage":"75000","price":$13500"}</item>
+        <item>{"name":"\"Mercedes Benz Tesla\"","year":"2020",
+           "color":"Silver","milage":"25000","price":$155000"}</item>
+    </string-array>
+</resources>

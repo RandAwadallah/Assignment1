@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cars_array">
+        <item>Honda civic sedan</item>
+        <item>Honda civic 1.6</item>
+        <item>Honda Accord Tourind OEM</item>
+        <item>Honda Civic MMP</item>
+        <item>Honda Accord Baton Rouge</item>
+        <item>BMW X5 xDrive40i</item>
+        <item>BMW X5 Standard</item>
+        <item>BMW X6 Standard</item>
+        <item>BMW X5 Standard</item>
+        <item>Mercedes Benz EQC</item>
+        <item>Mercedes Benz Sedan</item>
+        <item>Mercedes Benz AMG C63</item>
+        <item>Mercedes Benz Tesla</item>
+    </string-array>
+</resources>
